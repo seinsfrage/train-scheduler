@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/trainstation2.jpg");
+    font-weight: bolder;
+    margin-top: 25px;
+
+}
+
+.jumbotron {
+    
+    background-color: #000;
+    color: #fff;
+    border: solid 3px #dcdcc6;
+}
+
+
+
+.col-sm-12 {
+    
+    opacity: 0.8;
+}
+
+.panel-warning {
+    color:#000;
+}
+
+.panel {
+    background-color: #fff;
+    
+}
+
+button#submitTrain {
+    
+    background-color: black;
+    outline: none;
+}
+
